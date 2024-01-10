@@ -1,0 +1,533 @@
+
+
+/* Shared Styling */
+
+.span-color{
+    color: #FF0000;
+}
+
+
+
+.btn-primary{
+    margin-top: 24px;
+    padding: 16px 32px;
+    border-radius: 8px;
+    border: 0;
+    background: #F00;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 126px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFF;
+    
+}
+
+/* Styling banner section */
+
+
+.banner-bg{
+    
+    /* justify-content: center; */
+    /* margin: 50px,140px,120px,140px; */
+    width: 1320px;
+    height: 600px;
+    position: relative;
+    border-radius: 16px;
+    background:linear-gradient(180deg, rgba(7, 2, 17, 0.7) 0%, rgba(7, 2, 17, 0) 100%),url(../resources/Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center; */
+    justify-content: center;
+    
+    /* margin: auto; */
+    /* margin-left: 30px; */
+
+} 
+
+
+.banner>h3{
+    padding-top: 170px;
+    padding-bottom: 20px;
+    color: white;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+   
+
+}
+.banner>h1{
+    color: white;
+    text-align: center; 
+    font-family: Merriweather;
+    font-size: 72px; 
+    font-weight: 900;
+       
+}
+
+/* Styling the body main section  */
+
+/* Styling the offer section  */
+
+.offer>h1{
+    margin-top: 120px;
+    color: #F00;
+
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+
+}
+.offer>h3{
+    margin-top: 48px;
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+.offer>h2{
+    margin-top: 10px;
+    color: #070211;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+   
+}
+.offer>img{
+    margin-top: 48px;
+    margin-bottom: 120px;
+}
+
+.offer{
+    text-align: center;
+    justify-content: center;
+}
+
+/* Styling the midnight party section */
+
+.mid-night-header{
+    vertical-align: auto;
+    padding-left: 126px;
+    padding-top: 126px;
+}
+
+.mid-night-header h1{
+    
+    margin-bottom: 24px;
+    color: white;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    letter-spacing: 7.04px;
+}
+
+
+.mid-night-header p{
+    margin-bottom: 48px;
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.mid-night-header h3{
+    color: white;
+  
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;  
+}
+
+.mid-night-party{
+    margin-top: 126px;
+    border-radius: 16px;
+    background:linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),  url(../resources/Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* margin-left: 30px; */
+    /* margin: auto; */
+}
+
+
+/* Styling place-date-time */
+
+.place-date-time{
+  margin-top: 120px;
+  width: 1320px;
+  height: 482px;
+  background: linear-gradient(180deg, rgba(255, 208, 208, 0.966) 0%, rgb(255, 255, 255) 100%);
+  margin-bottom: 120px;
+  /* margin-left: 30px; */
+  
+
+}
+
+.details{
+    padding-top: 100px;
+    text-align: center;
+    justify-content: center;
+}
+.details>h2{
+    margin-top: 24px;
+    
+}
+
+/* Styling the Optional New Best offer section */
+
+
+.Best-offer{
+
+    width: 1320px;
+    height: 482px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.middle-section{
+    
+    
+    width: 398px;
+    height: 398px;
+    border-radius: 398px;
+    border: 15px solid #F00;
+
+}
+
+.middle-section>img{
+    
+    width: 364.844px;
+    height: 364.844px;
+    border-radius: 364.844px;
+    border: 15px solid white;
+    
+
+}
+
+
+
+
+.left-section>h3{
+    
+color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+
+}
+
+.left-section>h1{
+
+color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+}
+
+.left-section>p{
+
+color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+
+}
+
+.right-section>h2{
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    
+}
+
+.right-section>p{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+
+
+
+
+/* styling Holidays deal */
+
+.holiday-sale{
+    /* margin-top: 120px; */
+    text-align: center;
+    /* margin-left: 30px; */
+}
+
+.holiday-sale>h3{
+    color: #070211;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 24px;
+   
+}
+
+.holiday-sale>h1{
+  margin-bottom: 24px;
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+
+}
+
+.holiday-sale>p{
+    margin-bottom: 64px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+
+/* styling holiday sales  */
+
+.image{
+   width: 1320px;
+   height: 600px;
+   position: relative;
+   /* overflow: hidden; */
+   margin-bottom: 120px;
+}
+
+.img-1{
+    
+    margin-left: 883px;
+    margin-bottom: 0px;
+        
+    /* float: right; */   
+    
+}
+
+.img-2{
+    position: absolute;
+    top: 72%;
+}
+
+.img-4{
+    position: absolute;
+    top: 5%;
+    left: 0;
+    height: 250px;
+}
+
+
+.img-3{
+   position: absolute;
+   top:10% ;
+   right:20% ;
+}
+
+
+/* Styling product portfolios */
+
+.Awesome-products-row-1{
+     
+     grid-template-columns: repeat(3, 1fr); /* 3 columns */
+     gap: 24px; 
+     /* padding-left: 20px;
+     padding-right: 20px; */
+     
+    /* display: flex; */
+} 
+
+#product-image{
+    width: 424px;
+    height: 450px;
+}
+
+.Awesome-portfolio{
+    margin-top: 120px;
+    
+    vertical-align: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 120px;
+}
+
+.Awesome-portfolio>h3{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+
+}
+
+.Awesome-portfolio>h1{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+
+}
+
+.Awesome-portfolio>p{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+
+}
+
+
+/* Styling Subscribe-newsletter section */
+
+.Subscribe{
+    
+    height: 616px;
+    margin: 120px 20px;
+    border-radius: 16px;
+    background-color: #fee3e3; 
+    text-align: center;
+    justify-content: center;
+}
+
+.email-icon>img{
+    margin-top: 80px;
+    width: 150px;
+    height: 150px;
+}
+
+.news-letter>h1{
+    color: #070211; 
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    
+}
+
+.news-letter>p{
+    margin-top: 22px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    color: rgba(7, 2, 17, 0.60);;
+
+}
+
+input[type="email"]{
+    width: 500px;
+    height: 72px;
+    border-radius: 50px;
+    border-end-end-radius: 0;
+    border-start-end-radius: 0;
+    background: #FFF;
+}
+
+input::placeholder{
+    color: rgba(7, 2, 17, 0.30);
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;    
+}
+
+.btn-second{
+   width: 210px;
+   height: 78px;
+   border-radius: 0px 50px 50px 0px;
+   background: #F00;
+   color: #FFF;
+   font-family: Inter;
+   font-size: 20px;
+   font-weight: 600;
+   padding-right: 5px;
+
+}
+
+.provide-email{
+    justify-content: center;
+    align-items: center;
+    gap: 0;
+}
+
+/* Styling the footer section -  */
+
+.footer{
+    background-color: #070211;
+    width: 1320px;
+    height: 600px;
+    
+    justify-content: center;
+}
+
+.first-row{
+    
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.left-side > p{
+
+margin-top: 120px;   
+color: #FFF;
+font-family: Inter;
+font-size: 15px;
+padding-right: 500px;
+margin-left: 140px;
+
+
+
+}
+
+.right-side > p{
+
+ margin-top: 120px;
+ padding-right: 260px ;
+color: #FFF;
+font-family: Inter;
+font-size: 15px;
+
+}
+
+hr{
+    margin-left: 140px;
+    margin-right: 140px;
+    /* height: 1px; */
+    width: 1320;
+    background: hsla(0, 10%, 96%, 0.438);
+    /* vertical-align: auto; */
+}
+
+
+.image-section{
+    display: flex;
+    justify-content: center;   
+}
+
+.image-section>img{
+    margin-top: 48px;
+    margin-bottom: 48px;
+    margin-inline: 24px;
+}
+
+.second-row{
+    display: flex;
+    justify-content: space-around;
+}
+.second-row>p{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 15px;
+}
+
+
+#right-side{
+    padding-left: 480px;
+}
